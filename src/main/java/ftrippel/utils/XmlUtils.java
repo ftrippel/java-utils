@@ -15,7 +15,7 @@ import javax.xml.transform.stream.StreamSource;
 
 /**
  * 
- * @author ftrippel
+ * @author https://github.com/ftrippel
  * 
  */
 public class XmlUtils {

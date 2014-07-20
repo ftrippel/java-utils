@@ -1,11 +1,17 @@
 package ftrippel.utils;
 
+import org.springframework.batch.core.JobParameter;
+
 /**
  * 
- * @author ftrippel
+ * @author https://github.com/ftrippel
  * 
  */
 public class StringUtils extends org.apache.commons.lang.StringUtils {
+
+	public static Boolean jobParameterAsBoolean(JobParameter p) {
+		return stringAsBoolean((String) p.getValue());
+	}
 
 	public static Boolean stringAsBoolean(String s) {
 		String bool = s.trim();

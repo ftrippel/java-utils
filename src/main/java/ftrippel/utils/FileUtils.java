@@ -11,7 +11,7 @@ import java.io.PrintStream;
 
 /**
  * 
- * @author ftrippel
+ * @author https://github.com/ftrippel
  * 
  */
 public class FileUtils extends org.apache.commons.io.FileUtils {

@@ -9,7 +9,7 @@ import java.util.Map;
 
 /**
  * 
- * @author ftrippel
+ * @author https://github.com/ftrippel
  * 
  */
 public class NumberUtils extends org.apache.commons.lang.math.NumberUtils {

@@ -10,7 +10,7 @@ import ftrippel.utils.NumberUtils.DecimalFormatSign;
 
 /**
  * 
- * @author ftrippel
+ * @author https://github.com/ftrippel
  * 
  */
 public class NumberUtilsTest {

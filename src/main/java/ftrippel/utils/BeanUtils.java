@@ -20,7 +20,7 @@ import org.apache.commons.lang.builder.ToStringBuilder;
 
 /**
  * 
- * @author ftrippel
+ * @author https://github.com/ftrippel
  * 
  */
 public class BeanUtils extends org.apache.commons.beanutils.BeanUtils {

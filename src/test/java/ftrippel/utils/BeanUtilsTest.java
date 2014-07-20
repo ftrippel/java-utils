@@ -9,7 +9,7 @@ import org.junit.Test;
 
 /**
  * 
- * @author ftrippel
+ * @author https://github.com/ftrippel
  * 
  */
 public class BeanUtilsTest {
